@@ -11,6 +11,14 @@
 
 ### Installation
 
+#### Via NPM
+
+```
+npm i 0.css
+```
+
+#### Via CDN
+
 ```
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link href="https://fonts.googleapis.com/css?family=Prompt|Sarabun:300,400" rel="stylesheet">
