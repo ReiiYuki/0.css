@@ -1,0 +1,24 @@
+{
+  "name": "0.css",
+  "version": "0.1.0",
+  "description": "0 configuration css framework",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReiiYuki/0.css.git"
+  },
+  "keywords": [
+    "css",
+    "style",
+    "0",
+    "lazy"
+  ],
+  "author": "ReiiYuki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ReiiYuki/0.css/issues"
+  },
+  "homepage": "https://github.com/ReiiYuki/0.css#readme"
+}
